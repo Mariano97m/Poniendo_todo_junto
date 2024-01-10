@@ -1,2 +1,2 @@
-# Poniendo_todo_junto
+# Poniendo todo junto
  Tarea de React
